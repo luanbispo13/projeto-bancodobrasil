@@ -8,12 +8,6 @@
 
 ---
 
-## 🖼️ Visualização do Projeto
-
-![Screenshot do Dashboard](https://via.placeholder.com/1000x500?text=Insira+o+Print+do+Seu+Dashboard+Aqui)
-
----
-
 ## 🎯 Objetivo do Projeto
 
 Transformar dados brutos de balancetes contábeis (`.xlsx`) em informações gerenciais visuais, permitindo a análise rápida de:
